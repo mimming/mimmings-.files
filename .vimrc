@@ -7,4 +7,4 @@ set spell spelllang=en_us
 
 :colorscheme murphy
 
-
+set guifont=Monaco:h20
